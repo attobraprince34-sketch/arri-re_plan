@@ -1,4 +1,4 @@
-# Application SaaS de Suppression d'Arrière-Plan par l'IA
+# Application  de Suppression d'Arrière-Plan 
 
 Une application SaaS full-stack prête pour la production, permettant la suppression automatique de l'arrière-plan des images grâce à l'Intelligence Artificielle. Construite avec une architecture moderne et performante.
 
