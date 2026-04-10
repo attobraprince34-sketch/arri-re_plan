@@ -1,6 +1,6 @@
 # Application  de Suppression d'Arrière-Plan 
 
-Une application SaaS full-stack prête pour la production, permettant la suppression automatique de l'arrière-plan des images grâce à l'Intelligence Artificielle. Construite avec une architecture moderne et performante.
+Une application SaaS full-stack prête pour la production, permettant la suppression automatique de l'arrière-plan des images . Construite avec une architecture moderne et performante.
 
 ##  Fonctionnalités
 
@@ -35,7 +35,7 @@ Une application SaaS full-stack prête pour la production, permettant la suppres
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-nom-dutilisateur/supression_arrire_plan.git
+git clone  https://github.com/attobraprince34-sketch/arri-re_plan.git
 cd supression_arrire_plan
 ```
 
